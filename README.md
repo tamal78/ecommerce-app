@@ -1,5 +1,9 @@
 # ecommerce-app
 
+![HOME SS](https://github.com/tamal78/ecommerce-app/blob/main/client/public/ss.png)
+
+#
+
 Features :
 - Basic E-commerce Features- Product lists, Product Details, Cart, Checkout 
 - Secure Card Payments / Cash payments
